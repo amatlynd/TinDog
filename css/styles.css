@@ -1,0 +1,82 @@
+/* General Tags */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navbar Tags and first section */
+
+.navbar{
+  padding:0 2rem 0 0;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+
+.phone-dog{
+  margin: 3rem auto;
+  display: block;
+  transform: rotate(15deg);
+  width: 60%;
+}
+
+.btn{
+  margin: 0.5rem;
+}
+
+/* Second Section */
+
+#features {
+  text-align: center;
+}
+
+.section2-icons{
+  color: #ef8172;
+}
+
+.section2-icons:hover{
+  color: #ff4c68;
+}
+
+.feature{
+  padding: 1.5rem;
+}
+
+.feature-titles {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.feature-text {
+  color: #8f8f8f;
+}
