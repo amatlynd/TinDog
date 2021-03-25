@@ -164,6 +164,7 @@ h3{
 
 #cta {
   background-color: #ff4c68;
+  color: white;
   text-align: center;
   padding-bottom: 100px;
 }
@@ -177,5 +178,5 @@ h3{
 }
 
 .social-media-links {
-  padding: 3rem 1rem 3rem;
+  padding: 20px 10px;
 }
